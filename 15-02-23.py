@@ -8,6 +8,6 @@ x=np.arange(1,1339)
 y=df["age"]
 plt.scatter(x,y,color="k")
 plt.savefig("file.pdf")
-plt.show()
+plt.show() 
 
 
